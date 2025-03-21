@@ -1,0 +1,6 @@
+logi 
+index
+cart_added
+cart
+cont
+sett
